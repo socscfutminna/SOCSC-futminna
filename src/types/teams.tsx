@@ -6,7 +6,7 @@ export interface Team {
   icon: string
   projectsCount?: number
   category: 'technical' | 'non-technical'
-} //detect this
+} //detect this too
 
 export interface TeamSpotlightCard {
   id: string
